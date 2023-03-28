@@ -1,4 +1,4 @@
-### sumeet Shah
+### Sumeet Shah
 
 ### Predicting Heart disease
 
