@@ -1,8 +1,8 @@
-## Predicting Heart disease
+### Predicting Heart disease
 
-## Topic: Predicting the heart problems in patients using Machine learning
+### Topic: Predicting the heart problems in patients using Machine learning
 
-## Licence
+### Licence
 
 MIT License
 
