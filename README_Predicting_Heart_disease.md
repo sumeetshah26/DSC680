@@ -31,7 +31,6 @@ The packages used in this project are:
       4.Matplotlib
       5.Yellowbrick
       6.Sklearn
-      7.
 
 ### Licence
 
