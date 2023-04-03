@@ -23,7 +23,15 @@ The Python notebook includes the code for the project. The various tools used fo
       2.Jupyter Notebook
       3.Python 3.6
       
-The .ipynb file lists the different data science python libraries used throughout the project.
+The packages used in this project are:
+
+      1.Pandas
+      2.Numpy
+      3.Seaborn
+      4.Matplotlib
+      5.Yellowbrick
+      6.Sklearn
+      7.
 
 ### Licence
 
